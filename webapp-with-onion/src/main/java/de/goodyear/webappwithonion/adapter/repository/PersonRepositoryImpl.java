@@ -1,6 +1,6 @@
 package de.goodyear.webappwithonion.adapter.repository;
 
-import com.sun.org.apache.xerces.internal.impl.XMLEntityManager;
+
 import de.goodyear.model.Person;
 import de.goodyear.repository.PersonRepository;
 import de.goodyear.webappwithonion.adapter.mapper.PersonMapper;
